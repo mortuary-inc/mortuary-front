@@ -1,0 +1,8 @@
+.active a{
+    background-color: theme('colors.secondary');
+    color: theme('colors.primary');
+}
+.disabled a {
+    border-color: theme('colors.disabled');
+    color: theme('colors.disabled');
+}

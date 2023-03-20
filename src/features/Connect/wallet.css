@@ -1,0 +1,38 @@
+.mortuary-wallet-btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.wallet-adapter-button.mortuary-wallet-btn {
+    font-family: MaisonNeueMedium, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    color: rgba(28, 28, 28, var(--tw-text-opacity));
+    background-color: rgba(173, 149, 240, var(--tw-bg-opacity));
+    border-radius: 0.75rem;
+    line-height: 1.5rem;
+    padding: 8px 12px 6px;
+    height: 40px;
+    width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+    .mortuary-wallet-btn-wrapper {
+        display: inline-block;
+    }
+    .wallet-adapter-button.mortuary-wallet-btn {
+        width: auto;
+    }
+}
+
+.burn-btn, .disconnect-btn{
+    height: 40px;
+    text-align: center;
+}
+
+.wallet-adapter-button-start-icon{
+    float: left;
+}
+
+.wallet-adapter-button{
+    height: auto;
+}

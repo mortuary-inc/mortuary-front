@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Shack",
+    "attributes": "Buildings",
+    "description": "Just a bunch of half-rotten planks haphazardly put together. It’s not much but at least you don’t sleep outside. We don’t want to be cynical but don’t forget that Diogenes of Sinople, one of the founders of Greek philosophy, lived in a barrel. With a bit of luck, you’ll do great things in your moldy shed. ",
+    "rarity": 20,
+     "img": "../assets/renderings/buildings/shack.mp4"
+  },
+  {
+    "name": "Hut",
+    "attributes": "Buildings",
+    "description": "Every single major civilization started with half-naked people living in huts. Your own personal hut then, exciting eh!? Look at this craftsmanship: these reeds are so delicately woven together and these branches are assembled in such a comfy cot. Humble beginnings? Maybe but think about your forefathers: from here, the only way is up! ",
+    "rarity": 16,
+     "img": "../assets/renderings/buildings/hut.mp4"
+  },
+  {
+    "name": "Obelisk",
+    "attributes": "Buildings",
+    "description": "Let’s be honest: this is not a building per se. It is a construction, that’s for sure but you won’t get much shelter from it. ‘Monument’ is the word you’re looking for. An obelisk is memory made material, events set in stone, history petrified. It’s retro-chic, timeless and undoubtedly phallic. ",
+    "rarity": 12,
+     "img": "../assets/renderings/buildings/obelisk.mp4"
+  },
+  {
+    "name": "Arch",
+    "attributes": "Buildings",
+    "description": "This commemorative building also forms a grand entryway to your domain. It speaks volumes about how you perceive yourself and wanna be perceived by others. Other than that, it’s sort of a very fancy bridge that you can’t really cross but under which you can pass, or sleep if you absolutely have to. ",
+    "rarity": 12,
+     "img": "../assets/renderings/buildings/arch.mp4"
+  },
+  {
+    "name": "Mound",
+    "attributes": "Buildings",
+    "description": "Put a burial and its offerings under a large amount of soil shaped like half a melon, erect a few cut stones around it and you got yourself a mound. This lovely pile of earth sticks out of the countryside landscape like a sore thumb but at least nobody’s walking unknowingly on your grave. ",
+    "rarity": 8,
+     "img": "../assets/renderings/buildings/mound.mp4"
+  },
+  {
+    "name": "Tholos",
+    "attributes": "Buildings",
+    "description": "A round chamber built out of finely cut stones opening onto a long corridor called dromos. It’s very fancy on the inside but it is ultimately covered in soil so, basically, a mound from the outside. But keep in mind that kings of old chose this type of burial above all else: don’t you look fancy now? Time was not kind on your tholos though, it’s a ruin! ",
+    "rarity": 8,
+    "img": "../assets/renderings/buildings/tholos.mp4"
+  },
+  {
+    "name": "Crypt",
+    "attributes": "Buildings",
+    "description": "“A cold and dank place” would say some. “Covered with spiderwebs” would complain others but you know better. Fluted columns crowned with monstrous beasts, domed ceilings, gothic arches, and rows of ornate tombs. Your own personal tiny cemetery. One of your tenants drinks blood but, at least, he’s awfully calm during the day. ",
+    "rarity": 6,
+     "img": "../assets/renderings/buildings/crypt.mp4"
+  },
+  {
+    "name": "Chapel",
+    "attributes": "Buildings",
+    "description": "This is way more than a miniature church! It’s a statement: your ancestors are that close to entering the pantheon. To help them reach this holy state you built them a marvelous little building, all in delicate spires and elegant arched windows. Enshrined in this familial temple also lies your hope of salvation. You really should have led a better life. ",
+    "rarity": 6,
+     "img": "../assets/renderings/buildings/chapel.mp4"
+  },
+  {
+    "name": "Mausoleum",
+    "attributes": "Buildings",
+    "description": "This is the equivalent of a mansion but for dead people and, in place of a swimming pool, you get a very nice ossuary. Everything in this magnificent building is a tribute to how great your ancestors were. But, to be honest, you’re glad they’re all dead: you’re the only heir! There’s even a marble casket waiting for your trespass. ",
+    "rarity": 4,
+     "img": "../assets/renderings/buildings/mausoleum.mp4"
+  },
+  {
+    "name": "Sacrificial grounds",
+    "attributes": "Buildings",
+    "description": "You needed dead things and you took matters into your own hands: you’ve acquired a lovely piece of real estate. The bloody altar is the centerpiece. It’s very convenient, you can attach up to two volunteers on it (you like to convince yourself they are, it’s easier on your sleep). If only you could avoid the screams of agony. ",
+    "rarity": 4,
+     "img": "../assets/renderings/buildings/altar.mp4"
+  },
+  {
+    "name": "Pyramid",
+    "attributes": "Buildings",
+    "description": "All these hours of slave work to cover one funeral chamber? Masonry cemented with the blood and sweat of hundreds of poor workers. Yeah, so what? It was totally worth it. Look at these perfect angles, these steep inclines: it’s geometry at its best! The sheer simplicity and brute materiality of this monument will endure eons. ",
+    "rarity": 1.6,
+     "img": "../assets/renderings/buildings/pyramid.mp4"
+  },
+  {
+    "name": "Cathedral",
+    "attributes": "Buildings",
+    "description": "This is an architectural symphony. Stone blocks, wooden beams, stained glass, marble pavings, plaster moldings, tapestries, radiant pigments all combined in a quasi-divine melody of forms and images transfused by the sunlight. This really is a piece of heaven on earth, if only there weren’t so many draughts! ",
+    "rarity": 1.6,
+     "img": "../assets/renderings/buildings/cathedral.mp4"
+  },
+  {
+    "name": "Ziggurat",
+    "attributes": "Buildings",
+    "description": "Remember the Tower of Babel? Well, in a way, you now own your very own replica of it. Grand staircases connect each level of your magnificent monument, leading towards the summit where only you can climb to contemplate your lowly subjects cowering at your feet. Before glowering at them, you might wanna catch your breath first! ",
+    "rarity": 0.8,
+    "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Bonfire",
+    "attributes": "Artifacts",
+    "description": "Nothing fancy about it but it keeps your toes warm and your lamb chops are easier to swallow. The sizzling sound of bits of marshmallows dripping in the flames is music to your ears. ",
+    "rarity": 6,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Cross",
+    "attributes": "Artifacts",
+    "description": "What did you expect? It’s a burial ground, crosses are a pretty usual sight. This one is made of wood and is rather moldy but you really don’t feel like getting rid of it. God knows what’s sleeping underneath? ",
+    "rarity": 4,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Urn",
+    "attributes": "Artifacts",
+    "description": "Not to be confused with a canopic jar which usually helds viscera, your urn is essentially an ash container. You basically turned your ancestors into a gray powder and because you felt tremendously guilty, you offered them a fancy pot. ",
+    "rarity": 4,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Torch",
+    "attributes": "Artifacts",
+    "description": "It’s so dark in these parts that you often find yourself wishing for a flashlight but this simple torch will do for now. At least you won’t have to stumble over dead things and risk breaking your neck each time you take a walk on your plot. ",
+    "rarity": 6,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Chest",
+    "attributes": "Artifacts",
+    "description": "You opened a door in a dungeon and you found this wooden chest. You brought it home with you but never mustered up the courage to open it…could be a mimic, one is never too careful with dungeon loot. ",
+    "rarity": 3,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Sword",
+    "attributes": "Artifacts",
+    "description": "Good old-fashioned steel, roughly 5 feet long, razor sharp, gilted pommel and jeweled hilt. A fine weapon for sure, efficient and elegant at once, fit for a king or at least a very famous knight. Too bad it’s stuck in a rock. ",
+    "rarity": 3,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Ornate cross",
+    "attributes": "Artifacts",
+    "description": "Two wooden planks would not do, not at all. The finer metalwork is required to mark the grave of your dog Rufus. Openwork arabesques and intricate bronze foliage delicately set on a marble base…The poor dog, he deserved it! ",
+    "rarity": 2,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Tombstone",
+    "attributes": "Artifacts",
+    "description": "Well, it’s a burial ground, a few tombstones here and there are to be expected. This one has nothing unusual. It’s a good old stone with weatheworn engravings, it’s a bit mossy too. Is it a bit concerning that the earth appears freshly trodden around it? ",
+    "rarity": 4,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Sarcophagus",
+    "attributes": "Artifacts",
+    "description": "Now we’re talking! Not a simple coffin, my friend. A sarcophagus, the pinnacle of post-mortem classiness. It is made at your effigy with very fancy clothes. You’ll end up inside of it, a bit like a rather macabre Russian nesting doll. ",
+    "rarity": 0.2,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Ornate tomb",
+    "attributes": "Artifacts",
+    "description": "A large onyx slab with gold lettering, marble foundation and a finely carved headstone. Not the grave of a lowly peasant, that’s for certain. It is the last abode of someone who is either dearly missed or that people were delighted to see disappear. ",
+    "rarity": 0.2,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Skull pile",
+    "attributes": "Artifacts",
+    "description": "Messy business but gravediggers often have to gather all the stray bones coming from derelict graves. They usually discard everything but the skulls that they organize in piles. Some say it’s superstition, others simply don’t care. ",
+    "rarity": 3,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Statue",
+    "attributes": "Artifacts",
+    "description": "A burial ground would be a very bleak affair without some stone angels, solemn pieta or chubby putti. During daylight they truly brighten up the place but, at night, they cast very frightening shadows, looming creepily around your estate. ",
+    "rarity": 0.4,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Coin pile",
+    "attributes": "Artifacts",
+    "description": "Everyone knows that Charon demands a gold coin to carry souls across the Styx but few people actually know that undertakers adopted the very same tradition. Well, almost! They simply pilfer loose change in the pockets of their unfortunate clients. ",
+    "rarity": 2,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Fountain",
+    "attributes": "Artifacts",
+    "description": "The gurgling water, marble basin and fluted columns make a strange addition to your burial plot but you’re very happy you went full Renaissance on this piece , it reminds you of your honeymoon in Firenze. ",
+    "rarity": 0.12,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Gallows",
+    "attributes": "Artifacts",
+    "description": "The hangman is a friend of yours and you figured that it would be beneficial for the both of you to work closely together. He doesn’t have to take care of the corpses and when you drive your cart to town, it’s for a beer and not to collect dead bodies. ",
+    "rarity": 0.08,
+     "img": "../assets/renderings/buildings/ziggurat.mp4"
+  }
+]

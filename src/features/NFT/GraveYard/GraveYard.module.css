@@ -1,0 +1,6 @@
+.GraveYard svg path {
+    stroke: #999 !important;
+}
+.ContainerNFTItem svg path {
+    stroke: theme('colors.secondary') !important;
+}

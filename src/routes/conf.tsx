@@ -1,0 +1,17 @@
+export const Routes = {
+  HomePage: '/',
+  TermCondition: '/terms-conditions/',
+  FakeMint: '/fakemint/',
+  About: '/about/',
+  Partners: '/partners/',
+  Roadmap: '/roadmap/',
+  MyMortuary: '/my-mortuary/',
+  Parlor: '/parlor/',
+  Commons: '/commons/',
+  Lexicon: '/lexicon/',
+  AllNecrology: '/necrology/',
+  Grant: '/grant/',
+  CommonsList: '/commonslist/',
+  Cleaner: '/cleaner/',
+  AdminEdit: '/admin/edit/',
+};

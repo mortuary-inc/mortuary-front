@@ -1,0 +1,7 @@
+.NFT .button-burn{
+    transition: all 0.4s ease-out;
+}
+.NFT:hover .button-burn{
+    opacity: 1;
+    bottom: 1.2rem;
+}

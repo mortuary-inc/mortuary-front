@@ -1,0 +1,6 @@
+.footer-module svg path{
+    fill: theme('colors.primary');
+}
+.darkMode .footer-module svg path{
+    fill: theme('colors.secondary');
+}

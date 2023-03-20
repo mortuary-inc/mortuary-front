@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Shack",
+    "attributes": "Buildings",
+    "description": "Just a bunch of half-rotten planks haphazardly put together. It’s not much but at least you don’t sleep outside. We don’t want to be cynical but don’t forget that Diogenes of Sinople, one of the founders of Greek philosophy, lived in a barrel. With a bit of luck, you’ll do great things in your moldy shed. ",
+    "rarity": 12,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/shack.mp4"
+  },
+  {
+    "name": "Hut",
+    "attributes": "Buildings",
+    "description": "Every single major civilization started with half-naked people living in huts. Your own personal hut then, exciting eh!? Look at this craftsmanship: these reeds are so delicately woven together and these branches are assembled in such a comfy cot. Humble beginnings? Maybe but think about your forefathers: from here, the only way is up! ",
+    "rarity": 12,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/hut.mp4"
+  },
+  {
+    "name": "Obelisk",
+    "attributes": "Buildings",
+    "description": "Let’s be honest: this is not a building per se. It is a construction, that’s for sure but you won’t get much shelter from it. ‘Monument’ is the word you’re looking for. An obelisk is memory made material, events set in stone, history petrified. It’s retro-chic, timeless and undoubtedly phallic. ",
+    "rarity": 12,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/obelisk.mp4"
+  },
+  {
+    "name": "Arch",
+    "attributes": "Buildings",
+    "description": "This commemorative building also forms a grand entryway to your domain. It speaks volumes about how you perceive yourself and wanna be perceived by others. Other than that, it’s sort of a very fancy bridge that you can’t really cross but under which you can pass, or sleep if you absolutely have to. ",
+    "rarity": 8,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/arch.mp4"
+  },
+  {
+    "name": "Mound",
+    "attributes": "Buildings",
+    "description": "Put a burial and its offerings under a large amount of soil shaped like half a melon, erect a few cut stones around it and you got yourself a mound. This lovely pile of earth sticks out of the countryside landscape like a sore thumb but at least nobody’s walking unknowingly on your grave. ",
+    "rarity": 8,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/mound.mp4"
+  },
+  {
+    "name": "Tholos",
+    "attributes": "Buildings",
+    "description": "A round chamber built out of finely cut stones opening onto a long corridor called dromos. It’s very fancy on the inside but it is ultimately covered in soil so, basically, a mound from the outside. But keep in mind that kings of old chose this type of burial above all else: don’t you look fancy now? Time was not kind on your tholos though, it’s a ruin! ",
+    "rarity": 8,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/tholos.mp4"
+  },
+  {
+    "name": "Crypt",
+    "attributes": "Buildings",
+    "description": "“A cold and dank place” would say some. “Covered with spiderwebs” would complain others but you know better. Fluted columns crowned with monstrous beasts, domed ceilings, gothic arches, and rows of ornate tombs. Your own personal tiny cemetery. One of your tenants drinks blood but, at least, he’s awfully calm during the day. ",
+    "rarity": 8,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/crypt.mp4"
+  },
+  {
+    "name": "Altar",
+    "attributes": "Buildings",
+    "description": "This is quite the theatrical setting: delicate candelabrum, four huge pillars, their eternal dancing flames, and, at their center, a stone dais cut into the gray bedrock. On this monolithic rostrum, an altar holds your book of sacred scriptures. The ink glows in the dark, pretty neat right? If only you could read… ",
+    "rarity": 8,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/altar.mp4"
+  },
+  {
+    "name": "Chapel",
+    "attributes": "Buildings",
+    "description": "This is way more than a miniature church! It’s a statement: your ancestors are that close to entering the pantheon. To help them reach this holy state you built them a marvelous little building, all in delicate spires and elegant arched windows. Enshrined in this familial temple also lies your hope of salvation. You really should have led a better life. ",
+    "rarity": 6,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/chapel.mp4"
+  },
+  {
+    "name": "Mausoleum",
+    "attributes": "Buildings",
+    "description": "This is the equivalent of a mansion but for dead people and, in place of a swimming pool, you get a very nice ossuary. Everything in this magnificent building is a tribute to how great your ancestors were. But, to be honest, you’re glad they’re all dead: you’re the only heir! There’s even a marble casket waiting for your trespass. ",
+    "rarity": 6,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/mausoleum.mp4"
+  },
+  {
+    "name": "Bloody Altar",
+    "attributes": "Buildings",
+    "description": "You needed dead things and you took matters into your own hands: you’ve acquired a lovely piece of real estate. The bloody altar is the centerpiece. It’s very convenient, you can attach up to two volunteers on it (you like to convince yourself they are, it’s easier on your sleep). If only you could avoid the screams of agony. ",
+    "rarity": 4,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/bloody-altar.mp4"
+  },
+  {
+    "name": "Evil Chapel",
+    "attributes": "Buildings",
+    "description": "Something went 100% Evil Dead in this once holy building. The orange light pouring out of the windows has a tainted hue and the blood splashes do nothing to reassure you. And gosh, these screams! What in hell are they doing in there? Judging from the body parts and the shattered boarded doorway, the only certainty is that someone got too curious. ",
+    "rarity": 4,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/evil-chapel.mp4"
+  },
+  {
+    "name": "Pyramid",
+    "attributes": "Buildings",
+    "description": "All these hours of slave work to cover one funeral chamber? Masonry cemented with the blood and sweat of hundreds of poor workers. Yeah, so what? It was totally worth it. Look at these perfect angles, these steep inclines: it’s geometry at its best! The sheer simplicity and brute materiality of this monument will endure eons. ",
+    "rarity": 1.6,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/pyramid.mp4"
+  },
+  {
+    "name": "Cathedral",
+    "attributes": "Buildings",
+    "description": "This is an architectural symphony. Stone blocks, wooden beams, stained glass, marble pavings, plaster moldings, tapestries, radiant pigments all combined in a quasi-divine melody of forms and images transfused by the sunlight. This really is a piece of heaven on earth, if only there weren’t so many draughts! ",
+    "rarity": 1.6,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/cathedral.mp4"
+  },
+  {
+    "name": "Ziggurat",
+    "attributes": "Buildings",
+    "description": "Remember the Tower of Babel? Well, in a way, you now own your very own replica of it. Grand staircases connect each level of your magnificent monument, leading towards the summit where only you can climb to contemplate your lowly subjects cowering at your feet. Before glowering at them, you might wanna catch your breath first! ",
+    "rarity": 0.8,
+    "rarity-text": "",
+    "img": "/assets/renderings/buildings/ziggurat.mp4"
+  },
+  {
+    "name": "Bonfire",
+    "attributes": "Artifacts",
+    "description": "Nothing fancy about it but it keeps your toes warm and your lamb chops are easier to swallow. The sizzling sound of bits of marshmallows dripping in the flames is music to your ears. ",
+    "rarity": 8,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/artifacts/bonfire.mp4"
+  },
+  {
+    "name": "Torch",
+    "attributes": "Artifacts",
+    "description": "It’s so dark in these parts that you often find yourself wishing for a flashlight but this simple torch will do for now. At least you won’t have to stumble over dead things and risk breaking your neck each time you take a walk on your plot. ",
+    "rarity": 8,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/artifacts/torch.mp4"
+  },
+  {
+    "name": "Cross",
+    "attributes": "Artifacts",
+    "description": "What did you expect? It’s a burial ground, crosses are a pretty usual sight. This one is made of wood and is rather moldy but you really don’t feel like getting rid of it. God knows what’s sleeping underneath? ",
+    "rarity": 8,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/artifacts/cross.mp4"
+  },
+  {
+    "name": "Urn",
+    "attributes": "Artifacts",
+    "description": "Not to be confused with a canopic jar which usually helds viscera, your urn is essentially an ash container. You basically turned your ancestors into a gray powder and because you felt tremendously guilty, you offered them a fancy pot. ",
+    "rarity": 7.2,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/artifacts/urn.mp4"
+  },
+  {
+    "name": "Tombstone",
+    "attributes": "Artifacts",
+    "description": "Well, it’s a burial ground, a few tombstones here and there are to be expected. This one has nothing unusual. It’s a good old stone with weatheworn engravings, it’s a bit mossy too. Is it a bit concerning that the earth appears freshly trodden around it? ",
+    "rarity": 6,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/artifacts/tomb.mp4"
+  },
+  {
+    "name": "Sword",
+    "attributes": "Artifacts",
+    "description": "Good old-fashioned steel, roughly 5 feet long, razor sharp, gilted pommel and jeweled hilt. A fine weapon for sure, efficient and elegant at once, fit for a king or at least a very famous knight. Too bad it’s stuck in a rock. ",
+    "rarity": 6,
+    "rarity-text": "Uncommon",
+    "img": "/assets/renderings/artifacts/sword.mp4"
+  },
+  {
+    "name": "Skull pile",
+    "attributes": "Artifacts",
+    "description": "Messy business but gravediggers often have to gather all the stray bones coming from derelict graves. They usually discard everything but the skulls that they organize in piles. Some say it’s superstition, others simply don’t care. ",
+    "rarity": 4,
+    "rarity-text": "Uncommon",
+    "img": "/assets/renderings/artifacts/skull-pile.mp4"
+  },
+  {
+    "name": "Chest",
+    "attributes": "Artifacts",
+    "description": "You opened a door in a dungeon and you found this wooden chest. You brought it home with you but never mustered up the courage to open it…could be a mimic, one is never too careful with dungeon loot. ",
+    "rarity": 2,
+    "rarity-text": "Uncommon",
+    "img": "/assets/renderings/artifacts/chest.mp4"
+  },
+  {
+    "name": "Ornate cross",
+    "attributes": "Artifacts",
+    "description": "Two wooden planks would not do, not at all. The finer metalwork is required to mark the grave of your dog Rufus. Openwork arabesques and intricate bronze foliage delicately set on a marble base…The poor dog, he deserved it! ",
+    "rarity": 2,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/artifacts/ornate-cross.mp4"
+  },
+  {
+    "name": "Coin pile",
+    "attributes": "Artifacts",
+    "description": "Everyone knows that Charon demands a gold coin to carry souls across the Styx but few people actually know that undertakers adopted the very same tradition. Well, almost! They simply pilfer loose change in the pockets of their unfortunate clients. ",
+    "rarity": 2,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/artifacts/coin-pile.mp4"
+  },
+  {
+    "name": "Ornate tomb",
+    "attributes": "Artifacts",
+    "description": "A large onyx slab with gold lettering, marble foundation and a finely carved headstone. Not the grave of a lowly peasant, that’s for certain. It is the last abode of someone who is either dearly missed or that people were delighted to see disappear. ",
+    "rarity": 2,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/artifacts/ornate-tomb.mp4"
+  },
+  {
+    "name": "Statue",
+    "attributes": "Artifacts",
+    "description": "A burial ground would be a very bleak affair without some stone angels, solemn pieta or chubby putti. During daylight they truly brighten up the place but, at night, they cast very frightening shadows, looming creepily around your estate. ",
+    "rarity": 0.6,
+    "rarity-text": "Epic",
+    "img": "/assets/renderings/artifacts/statue.mp4"
+  },
+  {
+    "name": "Sarcophagus",
+    "attributes": "Artifacts",
+    "description": "Now we’re talking! Not a simple coffin, my friend. A sarcophagus, the pinnacle of post-mortem classiness. It is made at your effigy with very fancy clothes. You’ll end up inside of it, a bit like a rather macabre Russian nesting doll. ",
+    "rarity": 0.6,
+    "rarity-text": "Epic",
+    "img": "/assets/renderings/artifacts/sarcophagus.mp4"
+  },
+  {
+    "name": "Fountain",
+    "attributes": "Artifacts",
+    "description": "The gurgling water, marble basin and fluted columns make a strange addition to your burial plot but you’re very happy you went full Renaissance on this piece , it reminds you of your honeymoon in Firenze. ",
+    "rarity": 0.2,
+    "rarity-text": "Legendary",
+    "img": "/assets/renderings/artifacts/fountain.mp4"
+  },
+  {
+    "name": "Gallows",
+    "attributes": "Artifacts",
+    "description": "The hangman is a friend of yours and you figured that it would be beneficial for the both of you to work closely together. He doesn’t have to take care of the corpses and when you drive your cart to town, it’s for a beer and not to collect dead bodies. ",
+    "rarity": 0.08,
+    "rarity-text": "Legendary",
+    "img": "/assets/renderings/artifacts/gallows.mp4"
+  },
+  {
+    "name": "Frog",
+    "attributes": "Fauna",
+    "description": "Having a frog around usually sends a mixed message: in some traditions, it symbolizes fertility and prosperity; in others, it’s considered the loathsome familiar of witches. This one is yours and it is close to useless. ",
+    "rarity": 20,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/fauna/frog.mp4"
+  },
+  {
+    "name": "Scarab",
+    "attributes": "Fauna",
+    "description": "In Ancient Egypt, the scarab is a mighty symbol of immortality and rebirth. The reason behind this is somehow related to the fact that these little critters always push dung balls around. They also lay their eggs in them and feed these poop balls to their young. Go figure… ",
+    "rarity": 20,
+    "rarity-text": "common",
+    "img": "/assets/renderings/fauna/scarab.mp4"
+  },
+  {
+    "name": "Cat",
+    "attributes": "Fauna",
+    "description": "It’s common knowledge that cats have nine lives. You’re pretty sure that the gray tomcat lurking around your plot died ten times. You might be dealing with a zombie cat. But, really, who cares as long as it keeps eating mice? ",
+    "rarity": 16,
+    "rarity-text": "Uncommon",
+    "img": "/assets/renderings/fauna/cat.mp4"
+  },
+  {
+    "name": "Raven",
+    "attributes": "Fauna",
+    "description": "Some say having a raven in your funeral plot is a very good omen because every single raven is a descendant of Hugin and Munin, Odin’s familiars. They symbolize wisdom and longevity. This one is purely nerve-wracking with its constant croaking. ",
+    "rarity": 16,
+    "rarity-text": "Uncommon",
+    "img": "/assets/renderings/fauna/raven.mp4"
+  },
+  {
+    "name": "Owl",
+    "attributes": "Fauna",
+    "description": "Owl is just another way of writing ‘wisdom’. In folkloric tales from all over the world, they are also omens of death. This one broke one of its wings last winter and, since then, it is looking at you with these saucer-like eyes every time you lay a foot on your plot. ",
+    "rarity": 8,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/fauna/owl.mp4"
+  },
+  {
+    "name": "Wolf",
+    "attributes": "Fauna",
+    "description": "Wolves are badass, everyone knows that. They represent loyalty, friendship, and freedom. They usually live in packs, hunt together and are usually very faithful partners. This specific one is probably a bit of a jerk, he’s always alone. ",
+    "rarity": 8,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/fauna/wolf.mp4"
+  },
+  {
+    "name": "Snake",
+    "attributes": "Fauna",
+    "description": "Since the dawn of time, the snake and its symbolic representation as the Ouroboros has been a great symbol of eternity. In other traditions, it also embodies the very essence of evil and cunning. All because of an apple and some naked tourists… ",
+    "rarity": 8,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/fauna/snake.mp4"
+  },
+  {
+    "name": "Griffin",
+    "attributes": "Fauna",
+    "description": "What’s cooler and more badass than a lion or an eagle? An amalgamation of both: the griffin! It exudes courage and boldness. It’s just that if it were you, you would have named this marvelous creature ‘liogle’ or perhaps ‘eagion’. People truly suck at naming stuff. ",
+    "rarity": 2.8,
+    "rarity-text": "Epic",
+    "img": "/assets/renderings/fauna/griffin.mp4"
+  },
+  {
+    "name": "Unicorn",
+    "attributes": "Fauna",
+    "description": "Sheer embodiment of purity, gentleness, virginity and innocence, the unicorn is the most positive omen of all. A simple glimpse at such a beauty instantly brings good luck and happiness. This specific unicorn does not seem to have all its eggs in the same basket though. ",
+    "rarity": 1,
+    "rarity-text": "Epic",
+    "img": "/assets/renderings/fauna/unicorn.mp4"
+  },
+  {
+    "name": "Dragon",
+    "attributes": "Fauna",
+    "description": "Dragons are way cooler than any other creatures, they’re also incredibly difficult to control unless you find a huge pile of gold for them to sleep on. You’re close to penniless, so each time this monstrosity flies over your plot, it sends shivers down your spine. ",
+    "rarity": 0.2,
+    "rarity-text": "Legendary",
+    "img": "/assets/renderings/fauna/dragon.mp4"
+  },
+  {
+    "name": "Garden",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 20,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/Biome/garden.mp4"
+  },
+  {
+    "name": "Forest",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 20,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/Biome/forest.mp4"
+  },
+  {
+    "name": "Desert",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 20,
+    "rarity-text": "Common",
+    "img": "/assets/renderings/Biome/desert.mp4"
+  },
+  {
+    "name": "Swamp",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 12,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/Biome/swamp.mp4"
+  },
+  {
+    "name": "Tundra",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 12,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/Biome/tundra.mp4"
+  },
+  {
+    "name": "Jungle",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 12,
+    "rarity-text": "Rare",
+    "img": "/assets/renderings/Biome/jungle.mp4"
+  },
+  {
+    "name": "Heaven",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 2,
+    "rarity-text": "Legendary",
+    "img": "/assets/renderings/Biome/heaven.mp4"
+  },
+  {
+    "name": "Hell",
+    "attributes": "Biome",
+    "description": " ",
+    "rarity": 2,
+    "rarity-text": "Legendary",
+    "img": "/assets/renderings/Biome/hell.mp4"
+  }
+]

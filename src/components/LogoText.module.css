@@ -1,0 +1,8 @@
+.logoModule svg  path{
+    fill: theme('colors.primary');
+    stroke: none !important;
+}
+.darkMode svg path{
+    fill: theme('colors.secondary');
+    stroke: none !important;
+}
